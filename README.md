@@ -1,5 +1,5 @@
-<div align='center'>
-
+<!-- <div align='center'>
+ -->
  ## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
